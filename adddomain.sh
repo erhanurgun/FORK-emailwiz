@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# ...
+
 domain="$1"
 [ -z "$1" ] && exit
 
