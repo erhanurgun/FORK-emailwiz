@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# BEFORE INSTALLING
+# BEFORE INSTALLING ...
 
 # Have a Debian or Ubuntu server with a static IP and DNS records (usually
 # A/AAAA) that point your domain name to it.
